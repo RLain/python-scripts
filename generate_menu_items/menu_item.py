@@ -75,4 +75,4 @@ def generate_test_data(num_rows=100):
     print(f"Test data has been written to {output_file}")
 
 # Call the function to generate data
-generate_test_data(100)
+generate_test_data(110)
